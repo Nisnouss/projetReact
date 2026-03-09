@@ -10,7 +10,7 @@ type Project ={
 };
 
 const Projects = () => {
-    const [projects, setProjects] = useState<Project[]([]);
+    const [projects, setProjects] = useState<Project[]>([]);
 
     useEffect(()=>{
         // Simuler un chargement

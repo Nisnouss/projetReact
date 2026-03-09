@@ -3,12 +3,12 @@
         "id": 1,
         "title": "Application de recettes",
         "description": "Une application de recettes avec filtrage et recherche.",
-        "image": "/assets/recette.jpg"
+        "image": "/images/ciel.jpg"
     },
     {
         "id": 2,
         "title": "To-do list",
         "description": "Liste de tâches avec persistance locale.",
-        "image": "/assets/todo.jpg"
+        "image": "/images/mur.jpg"
     }
 ]

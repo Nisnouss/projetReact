@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Application de recettes",
+        "description": "Une application de recettes avec filtrage et recherche.",
+        "image": "/assets/recette.jpg"
+    },
+    {
+        "id": 2,
+        "title": "To-do list",
+        "description": "Liste de tâches avec persistance locale.",
+        "image": "/assets/todo.jpg"
+    }
+]
